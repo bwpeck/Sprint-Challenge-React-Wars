@@ -18,4 +18,5 @@ A class Component allows the component to include a state with it.
 The state of a component is an objecy that holds some info that may change over time. Their downside is they can only be used in Class, however the can be changed or modified over time.
 
 1.  Describe props.
+
 Props are an object that holds information to control the behavior of that particular component; however they can never be changed. 

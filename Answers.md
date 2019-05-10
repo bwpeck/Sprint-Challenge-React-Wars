@@ -1,6 +1,7 @@
 # Answers
 
 1.  What is React JS and what problems does it try and solve?
+React is a library for building user interfaces, with the intentions of creating an easier, quicker to learn system for creating and storing custom components for access.  
 
 1.  What does it mean to _think_ in react?
 

@@ -1,0 +1,17 @@
+.characterCard {
+    display:flex;
+    flex-direction: column;
+    border: 1px solid white;
+    width: 400px;
+    height: 500px;
+    justify-content: center;
+    color: hotpink;
+    background-color: black;
+
+}
+.characterContainer {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
